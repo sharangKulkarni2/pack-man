@@ -1,0 +1,59 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 560px;
+    height: 560px;
+    border: solid black;
+    
+}
+
+    .grid div {
+        width: 20px;
+        height: 20px;
+    }
+
+.pac-dot {
+    background-image:url('mask.jpg');
+    padding:10px;
+    box-sizing:border-box;
+    border-radius:50%;
+  
+}
+
+.wall {
+    background-color: blue;
+}
+
+.power-pellet {
+    background-image: url('dettol.jpg');
+  
+}
+
+.blinky {
+    background-image: url('rsz_coronavirus.jpg');
+    border-radius: 50%;
+}
+
+.pinky {
+    background-image: url('rsz_coronavirus.jpg');
+    border-radius: 50%;
+}
+.inky {
+    background-image: url('rsz_coronavirus.jpg');
+    border-radius: 50%;
+}
+
+.clyde {
+    background-image: url('rsz_coronavirus.jpg');
+    border-radius:50%;
+}
+
+.pac-man {
+    background-image:url('smiley.jpg');
+    border-radius: 50%;
+}
+
+.scared-ghost {
+   background-image:url('dettol.jpg');
+
+}
